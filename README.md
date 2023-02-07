@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ravvinder571
+- 👋 Hi, I’m Ravinder Kumar
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Machine Learning,AI
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Coders
-- 📫 How to reach me @i_m_ravv_inder
-
-<!---
-ravvinder571/ravvinder571 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me itzravinderkumar987@gmail.com
